@@ -28,3 +28,4 @@ function showMovie(age) {
 }
 /////
 //A function with an empty return or without it returns undefined//
+// Never add a newline between return and the value
