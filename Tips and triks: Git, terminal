@@ -1,0 +1,5 @@
+git --all // add all files
+
+rm -rf /path/dir. //command in terminal to. delete everything
+
+:q! //exit vi editor
