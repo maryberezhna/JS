@@ -1,5 +1,8 @@
-git --all // add all files
+git add --all // add all files to git
 
 rm -rf /path/dir. //command in terminal to. delete everything
 
 :q! //exit vi editor
+
+1)Create a new repo
+2)Follow the instrustions
