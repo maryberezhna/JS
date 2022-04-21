@@ -4,5 +4,7 @@ rm -rf /path/dir. //command in terminal to. delete everything
 
 :q! //exit vi editor
 
+https://ndpsoftware.com/git-cheatsheet.html#loc=workspace;  //git cheatsheet
+
 1)Create a new repo
 2)Follow the instrustions
