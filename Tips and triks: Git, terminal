@@ -6,5 +6,12 @@ rm -rf /path/dir. //command in terminal to. delete everything
 
 https://ndpsoftware.com/git-cheatsheet.html#loc=workspace;  //git cheatsheet
 
-1)Create a new repo
-2)Follow the instrustions
+For new project,firstly create a new repo.
+
+How to run react project:
+1)npx create-react-app my-app
+2)cd my-app
+npm start
+3)cd my-app
+code .
+
